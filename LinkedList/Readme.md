@@ -9,4 +9,4 @@ This repo has programs from basic level to harder ones. I'm updating it as I lea
 
 | Platform| # | Title | Solution | Difficulty | 
 |-------- | --- | ----- | -------- | ---------- | 
-|Leetcode|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[java]()|Easy|
+|Leetcode|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Linked%20list%20cycle)|Easy|
