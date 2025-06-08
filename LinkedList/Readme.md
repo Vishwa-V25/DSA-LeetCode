@@ -15,7 +15,9 @@ This repo has programs from basic level to harder ones. I'm updating it as I lea
 |Leetcode|876|[Middle-Of-LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Middle%20of%20the%20Linkedlist)|Easy|
 |Leetcode|234|[Palindrome-LinkedList](https://leetcode.com/problems/palindrome-linked-list/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Palindrome%20Linkedlist)|Easy|
 |Leetcode|19|[Remove-nth-node-from-LL](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/%20Remove%20Nth%20Node%20From%20End%20of%20List)|Medium|
-|Leetcode|92|[Reverse LinkedList II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Reverse%20Linked%20List%20II)|Medium|
-|Leetcode|86|[Partition List](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Partition%20List)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Partition%20List)|Medium|
+|Leetcode|92|[Reverse-LinkedList-II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Reverse%20Linked%20List%20II)|Medium|
+|Leetcode|86|[Partition-List](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Partition%20List)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Partition%20List)|Medium|
+https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Remove%20Duplicates%20from%20Sorted%20List%20II
+|Leetcode|82|[Remove-duplicate-from-sorted-listII ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/LinkedList/Remove%20Duplicates%20from%20Sorted%20List%20II)|Medium|
 
 
