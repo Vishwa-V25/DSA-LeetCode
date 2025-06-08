@@ -1,0 +1,103 @@
+# [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+
+## Description
+
+<!-- description:start -->
+
+Given the `head` of a linked list, remove the `n`th node from the end of the list and return its head.
+
+<!-- description:end -->
+
+---
+
+## Examples
+
+### Example 1:
+<img src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" width="400"/>
+<pre>
+<strong>Input:</strong> head = [1,2,3,4,5], n = 2  
+<strong>Output:</strong> [1,2,3,5]
+</pre>
+
+---
+
+### Example 2:
+<pre>
+<strong>Input:</strong> head = [1], n = 1  
+<strong>Output:</strong> []
+</pre>
+
+---
+
+### Example 3:
+<pre>
+<strong>Input:</strong> head = [1,2], n = 1  
+<strong>Output:</strong> [1]
+</pre>
+
+---
+
+## Constraints
+
+- The number of nodes in the list is `sz`.
+- `1 <= sz <= 30`
+- `0 <= Node.val <= 100`
+- `1 <= n <= sz`
+
+---
+
+## Solutions
+
+### Approach: Count and Remove (Two-Pass)
+
+1. Traverse the list to count total number of nodes.
+2. Find the `(count - n)`th node from the start.
+3. If it’s the head node, return `head.next`.
+4. Otherwise, update `next` pointer to skip the target node.
+
+This approach is simple and easy to understand, but it takes two passes.
+
+---
+
+## Time and Space Complexity
+
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+
+---
+
+## Java
+
+```java
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        int c = 0;
+        ListNode h = head;
+        while (h != null) {
+            c++;
+            h = h.next;
+        }
+        ListNode temp = head;
+        int v = c - n;
+        if (c == n) {
+            return head.next;
+        }
+        for (int i = 0; i < v - 1 && temp != null; i++) {
+            temp = temp.next;
+        }
+        if (temp != null && temp.next != null) {
+            temp.next = temp.next.next;
+        }
+        return head;
+    }
+}
