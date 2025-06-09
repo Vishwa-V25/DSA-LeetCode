@@ -13,3 +13,9 @@ This repo has programs from basic level to harder ones. I'm updating it as I lea
 |Leetcode|844|[Backspace-String-Compare](https://leetcode.com/problems/backspace-string-compare/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/%20Backspace%20String%20Compare)|Easy|
 |Leetcode|225|[Implement-Stack-using-Queue](https://leetcode.com/problems/implement-stack-using-queues/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Implement%20Stack%20using%20Queues)|Easy|
 |Leetcode|232|[Implement-Queue-Using-Stack](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Implement%20Queue%20using%20Stacks)|Easy|
+|Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
+|Leetcode|150|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
+|Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
+|Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
+
+
