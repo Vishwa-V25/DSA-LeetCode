@@ -14,7 +14,7 @@ This repo has programs from basic level to harder ones. I'm updating it as I lea
 |Leetcode|225|[Implement-Stack-using-Queue](https://leetcode.com/problems/implement-stack-using-queues/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Implement%20Stack%20using%20Queues)|Easy|
 |Leetcode|232|[Implement-Queue-Using-Stack](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Implement%20Queue%20using%20Stacks)|Easy|
 |Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
-|Leetcode|150|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
+|Leetcode|150|[Evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Evaluate%20Reverse%20Polish%20Notation)|Medium|
 |Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
 |Leetcode|71|[Simplify-path](https://leetcode.com/problems/simplify-path/description/)|[java](https://github.com/Vishwa-V25/DSA-LeetCode/tree/main/Stack/Simplify%20Path)|Medium|
 
